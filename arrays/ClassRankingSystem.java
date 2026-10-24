@@ -6,7 +6,7 @@ package arrays;
 
 /**
  *
- * @author USER
+ * @author Max
  */
 import java.util.Scanner;
 
