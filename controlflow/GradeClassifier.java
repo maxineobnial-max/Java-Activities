@@ -6,7 +6,7 @@ package controlflow;
 
 /**
  *
- * @author max
+ * @author Max
  */
 public class GradeClassifier {
     public static void main(String[] args) {
