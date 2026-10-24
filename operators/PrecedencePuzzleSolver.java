@@ -6,7 +6,7 @@ package operators;
 
 /**
  *
- * @author USER
+ * @author Max
  */
 
 public class PrecedencePuzzleSolver {
