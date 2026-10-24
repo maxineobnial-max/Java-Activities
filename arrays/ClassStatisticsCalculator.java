@@ -7,7 +7,7 @@ package arrays;
 
 /**
  *
- * @author USER
+ * @author Max
  */
 public class ClassStatisticsCalculator {
     public static void main(String[] args) {
