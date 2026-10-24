@@ -9,7 +9,8 @@ package ControlFlow_2;
  *
  * @author Max
  */
-public class Pattern {
+public class NewClass {
+    //pattern po dpt sir d ko lng napalitan
     public static void main(String[] args) {
         int size = 5;
         for (int i = 1; i <= size; i++) {
