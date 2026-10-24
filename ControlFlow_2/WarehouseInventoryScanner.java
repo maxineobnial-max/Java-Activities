@@ -7,7 +7,7 @@ package ControlFlow_2;
 
 /**
  *
- * @author USER
+ * @author Max
  */
 
 import java.util.Scanner;
